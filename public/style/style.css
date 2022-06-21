@@ -1,0 +1,19 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+
+
+article > img{
+    width: 25%;
+}
